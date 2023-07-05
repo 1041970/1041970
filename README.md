@@ -1,6 +1,7 @@
 <!-- -->
 
-![image](https://github.com/TheDeveloperOps/TheDeveloperOps/assets/82383377/369ae5c6-8a0f-41a1-86a5-a77e18bbac5e)
+![image](https://github.com/1041970/1041970/assets/67644755/e205f9fb-c481-47f0-ab0e-95cfa60c9bba)
+
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60px" height="60px" />
 
 My name is Vignesh and I'm a software developer. I'm from India, living in Chennai, and currently doing my computer science engineering final years. You can find me on [LinkedIn](https://www.linkedin.com/in/vignesh-v-71608820b/)
